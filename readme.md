@@ -6,7 +6,7 @@ TrueType and Webfont version of [Cogmind](https://www.gridsagegames.com/cogmind/
 
 ## License
 
-MIT License (You need not to report use of this fonts)
+MIT License (You need not to report use of these fonts)
 
 - (C) 2020 Grid Sage Games
 - (C) 2020 PlasticHeart
