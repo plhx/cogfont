@@ -4,6 +4,12 @@ TrueType and Webfont version of [Cogmind](https://www.gridsagegames.com/cogmind/
 
 ----
 
+## Screenshot
+
+![](screenshots/smallcaps.png)
+
+----
+
 ## License
 
 MIT License (You need not to report use of these fonts)
