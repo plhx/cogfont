@@ -22,4 +22,4 @@ MIT License (You need not to report use of these fonts)
 ## Contact
 
 - Twitter: [@PLHX](https://twitter.com/PLHX)
-- Discord: [@PlasticHeart#9169](https://discord.gg/REGBFD)
+- Discord: [@PlasticHeart#9169](https://discord.gg/Hq8wPcs)
