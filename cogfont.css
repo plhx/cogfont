@@ -1,0 +1,13 @@
+@font-face {
+    font-family: cogmind-cog;
+    src: url('https://cogmind-cdn.plasticheart.info/Cogmind-Cog.woff2') format('woff2'),
+        url('https://cogmind-cdn.plasticheart.info/Cogmind-Cog.woff') format('woff'),
+        url('https://cogmind-cdn.plasticheart.info/Cogmind-Cog.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: cogmind-smallcaps;
+    src: url('https://cogmind-cdn.plasticheart.info/Cogmind-Smallcaps.woff2') format('woff2'),
+        url('https://cogmind-cdn.plasticheart.info/Cogmind-Smallcaps.woff') format('woff'),
+        url('https://cogmind-cdn.plasticheart.info/Cogmind-Smallcaps.ttf') format('truetype');
+}
